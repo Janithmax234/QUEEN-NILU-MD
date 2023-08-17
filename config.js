@@ -52,7 +52,7 @@ global.SESSION_ID = '' // PUT your session ID BY scan QR
 
 // ⚙️ OWNER SETTINGS  ⚙️
 
-global.OWNER_NUMBER = '94767438882'
+global.OWNER_NUMBER = '94768966250'
 
 global.OWNER_NAME = 'Janiya_X'
 
@@ -63,7 +63,7 @@ global.OPENAI_API_KEY = "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"
 ⚙️ BOT  SETTINGS  ⚙️
 */
 
-global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
+global.BOT_NAME = 'janiya_x bot'
  
 global.STICKER_NAME = '@Janiya 🤹‍♂️' //sticker
 
